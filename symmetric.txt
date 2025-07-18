@@ -1,0 +1,3 @@
+symmetric (int a, int b) {
+	--process symmetric
+}
