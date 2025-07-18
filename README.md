@@ -1,2 +1,2 @@
 project :java25
-version: 1.0sns
+version: 2.0 sns
